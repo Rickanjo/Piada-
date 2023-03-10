@@ -7,5 +7,3 @@ Console.WriteLine("- Oi, qual é o seu nome?");
 Console.WriteLine("- Fu.");
 Console.WriteLine("- Fu o quê?");
 Console.WriteLine("- Fu Miga!");
-
-
